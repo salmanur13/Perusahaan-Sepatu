@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Form Perusahaan Sepatu": {
+      "commandName": "Project"
+    },
+    "Form_Utama": {
+      "commandName": "Project"
+    }
+  }
+}
