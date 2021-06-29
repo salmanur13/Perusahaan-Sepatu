@@ -1,2 +1,16 @@
+Main menu
 Form Pemesanan
-Input data - Button hitung - customer bayar - barang di save - input ke listview - selesai (lanjut ke bom)
+Input data - input ke listview - selesai (lanjut ke bom)
+Form BOM
+input tanggal-milih jenis sepatu-button hitung-button simpan-milih jenis sepatu-...-ke gudang bahan baku
+Form GBH
+Refresh-show info-purchasing/production
+Form Purchasing
+input kode-input tanggal-button hitung-button view-kembali ke form GBH
+Form Production
+input tanggal-milih jenis sepatu-button hitung-button produksi
+Form DBJ
+button refresh
+Form Logistic
+input nama-input kota tujuan-input tanggal pengiriman-input tanggal sampai- button lihat data-kirim barang
+selesaiii
